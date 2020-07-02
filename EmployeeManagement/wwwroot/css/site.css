@@ -1,0 +1,26 @@
+﻿.btn {
+    width:75px;
+}
+.imageThumbnail {
+    height:300px;
+    width:auto;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+}
+.content {
+ 
+}
+.wrapper {
+    min-height: 100%;
+    padding: 20px;
+    padding-bottom: 50px;
+}
+.footer {
+    height: 50px;
+    margin-top: -50px;
+    background-color: lightblue;
+    text-align: center;
+    vertical-align: middle;
+}

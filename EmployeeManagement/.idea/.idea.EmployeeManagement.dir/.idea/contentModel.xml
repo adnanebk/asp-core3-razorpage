@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Adnan\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Adnan\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="E:\EmployeeManagement-20200306T223052Z-001\EmployeeManagement" t="IncludeRecursive">
+      <e p="EmployeeManagement.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>
